@@ -1,2 +1,3 @@
-print("Halo dunia" )
-print("ubah")
+print("Halo semua" )
+print("proyek")
+print("tambah lagi")
