@@ -15,4 +15,4 @@ def iris_prediction():
 
 if __name__ == '__main__':
     run_with_ngrok(app)
-    app.run(host="localhost",port=5000, debug=True)
+    app.run()
